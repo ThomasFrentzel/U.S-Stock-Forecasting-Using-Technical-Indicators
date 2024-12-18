@@ -63,6 +63,5 @@ The scientific article with the analysis will be available [here](#).
 
 ## Authors
 
-- [Thomas Frentzel](mailto:thomasfrentzel96@gmail.com)
-- [Gabriel Sposito Conciani](mailto:gabrielspositoconciani@gmail.com)
-- [Julio Cesar Nievola](mailto:julio.nievola@pucpr.br)
+- [Thomas Frentzel](https://github.com/ThomasFrentzel)
+- [Gabriel Sposito Conciani](https://github.com/GabrielScon)
