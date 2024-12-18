@@ -52,11 +52,9 @@ git clone https://github.com/ThomasFrentzel/U.S-Stock-Forecasting-with-Technical
 - Use the `Database 5 years <Company>` folder for raw data.
 - Explore the `LSTM and ARIMA without Technical Indicators` folder for baseline analysis.
 
-## Results and Insights
-The project evaluates the effectiveness of different technical indicators in predicting future stock prices, with significant findings for investment strategies.
 
 ### Scientific Article
-The scientific article with the analysis will be available [here](#).
+The scientific article, with the analysis of the results and more information about the project will be available [here](#).
 
 
 
