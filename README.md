@@ -14,7 +14,7 @@ The analysis covers **NVIDIA**, **AMD**, and **Intel**, using 5 years of histori
 ### 1. Folder Structure
 The project is organized with separate folders for each company analyzed (**NVIDIA**, **AMD**, and **Intel**). Each company folder contains the following:
 
-- **`Codes/`**: A collection of Jupyter notebooks implementing technical indicators on the company's stock data. These include:
+- **`Codes/`**: A collection of Jupyter notebooks implementing technical indicators on the company's stock data, using the [Technical Analysis Library](https://technical-analysis-library-in-python.readthedocs.io/en/latest/). These include:
   - `Bollinger Bands - <Company>.ipynb`: Implementation of Bollinger Bands.
   - `CCI - <Company>.ipynb`: Implementation of Commodity Channel Index (CCI).
   - `MACD - <Company>.ipynb`: Implementation of Moving Average Convergence/Divergence (MACD).
