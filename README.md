@@ -1,4 +1,4 @@
-# US Stock Value Forecasting with Technical Indicators
+# Analysis of Stock Value Forecasting in the U.S. Market Using Technical Indicators Relative to Stock Price
 
 This project analyzes the use of technical indicators to predict stock prices for computer hardware companies listed on the New York Stock Market. The goal is to verify how closely the predicted values align with actual U.S. stock prices. 
 
