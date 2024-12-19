@@ -57,8 +57,6 @@ git clone https://github.com/ThomasFrentzel/U.S-Stock-Forecasting-with-Technical
 The scientific article, with the analysis of the results and more information about the project will be available [here](#).
 
 
-
-
 ## Authors
 
 - [Thomas Frentzel](https://github.com/ThomasFrentzel)
