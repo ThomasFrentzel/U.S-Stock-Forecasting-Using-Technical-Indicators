@@ -1,6 +1,6 @@
 # Analysis of Stock Value Forecasting in the U.S. Market Using Technical Indicators Relative to Stock Price
 
-This scientific research analyzes the use of technical indicators to predict stock prices for computer hardware companies listed on the New York Stock Market. Conducted as the final project of my Computer Science graduation, its goal is to verify how closely the predicted values align with actual U.S. stock prices.
+This scientific research analyzes the use of technical indicators to predict stock prices for computer hardware companies listed on the New York Stock Market. Conducted as the final project of my Computer Science bachelor's degree, its goal is to verify how closely the predicted values align with actual U.S. stock prices.
 
 We employ:
 - **LSTM (Long Short-Term Memory)**: A machine learning technique.
