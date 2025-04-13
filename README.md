@@ -54,7 +54,7 @@ git clone https://github.com/ThomasFrentzel/U.S-Stock-Forecasting-with-Technical
 
 
 ### Scientific Article
-The scientific article, with the analysis of the results and more information about the project, is available <a href="https://pergamum-biblioteca.pucpr.br/acervo/374707" target="_blank">here</a>
+The scientific article, with the analysis of the results and more information about the project, is available <a href="https://pergamum-biblioteca.pucpr.br/acervo/374707" target="_blank">here.</a>
 
 
 
